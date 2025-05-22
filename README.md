@@ -1,4 +1,4 @@
-# Olá, eu sou o Alex Pitz 👋
+# Olá, eu sou o Pitz 👋
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-advanced-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-Experienced-blue?logo=python)](https://www.python.org/)
