@@ -1,4 +1,4 @@
-# Olá, eu sou o Pitz 👋
+# Olá, eu sou o Pitz <img src="https://github.com/seu_usuario/seu_repositorio/raw/main/Eu_MacBook.jpg" width="16" height="16">👋
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-advanced-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-Experienced-blue?logo=python)](https://www.python.org/)
